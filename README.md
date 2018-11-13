@@ -50,7 +50,7 @@ Following are the external libraries required by this application,
 <h3>License</h3>
 MIT License
 
-Copyright (c) [2018] [Ahmed Safeek]
+Copyright 2018, Ahmed Safeek
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
